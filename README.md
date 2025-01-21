@@ -1,5 +1,7 @@
 # Olympic-Games-Power-BI-Project
-https://www.google.com/imgres?q=olympic%20games&imgurl=https%3A%2F%2Fassets.editorial.aetnd.com%2Fuploads%2F2010%2F01%2Fgettyimages-466313493-2.jpg&imgrefurl=https%3A%2F%2Fwww.history.com%2Ftopics%2Fsports%2Folympic-games&docid=u_-utZf4CIGLMM&tbnid=u7JIOy0-qKh3HM&vet=12ahUKEwiF2vSJs4eLAxWWrYkEHYzSNJMQM3oECBUQAA..i&w=3000&h=1688&hcb=2&ved=2ahUKEwiF2vSJs4eLAxWWrYkEHYzSNJMQM3oECBUQAA
+
+![image](https://github.com/user-attachments/assets/e94babcf-4623-42e6-b456-18748311c2fc)
+
 
 🚀 Excited to Share My Latest Project!
 
