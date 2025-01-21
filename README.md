@@ -1,4 +1,4 @@
-# Olympic-Games-Power-BI-Project
+# Olympic-Games-Power-BI- Dashboard-Project
 
 ![Olympics2020GIF](https://github.com/user-attachments/assets/f398d2c7-f3cd-4f3a-92eb-0ce9906fbf71) ![image](https://github.com/user-attachments/assets/29754fa6-0302-4c7a-b96c-642a7bb43bd5) 
 
