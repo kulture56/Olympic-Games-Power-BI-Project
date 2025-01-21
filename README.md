@@ -1,6 +1,7 @@
 # Olympic-Games-Power-BI-Project
 
-![image](https://github.com/user-attachments/assets/e94babcf-4623-42e6-b456-18748311c2fc)
+![image](https://github.com/user-attachments/assets/e94babcf-4623-42e6-b456-18748311c2fc) ![image](https://github.com/user-attachments/assets/29754fa6-0302-4c7a-b96c-642a7bb43bd5)
+
 
 
 🚀 Excited to Share My Latest Project!
